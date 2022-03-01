@@ -1,5 +1,8 @@
 package adriancompany;
 
+// demostracion de instancioaciones de inner clases
+// demostracion de uso de jackson para pasar a json (se ve la necesidad de usar setter y getters)
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 // import com.fasterxml.jackson.databind.SerializationFeature;
